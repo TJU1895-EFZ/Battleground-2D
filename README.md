@@ -1,6 +1,6 @@
 # 孤岛吃鸡 — 100人大逃杀
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License: Apache-2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![HTML5](https://img.shields.io/badge/HTML5-Game-orange)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 
 > 100 人空降孤岛，只有 1 人能活到最后。
@@ -54,4 +54,4 @@ Battleground-2D/
 
 ## 许可
 
-MIT License — 详见 [LICENSE](LICENSE) 文件。
+本项目采用 [Apache License 2.0](LICENSE) 开源许可。
